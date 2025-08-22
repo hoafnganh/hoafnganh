@@ -38,13 +38,15 @@
 
 ---
 
-<h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  <br/>
+## 🐍 My Contributions 🐍
+  
+  ![](./profile-3d-contrib/profile-green-animate.svg)
+  
 
 
-## 📡 Connect
+
+
+## 📩 Contact
 
 <p align="center">
   <a href="https://github.com/hoafnganh">
